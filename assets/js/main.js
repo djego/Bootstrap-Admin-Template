@@ -876,7 +876,7 @@ function metisFile() {
 
     /*----------- BEGIN elfinder CODE -------------------------*/
     var elf = $('#elfinder').elfinder({
-        url: 'assets/php/connector.php'  // connector URL (REQUIRED)
+        url: 'assets/elfinder/php/connector.php'  // connector URL (REQUIRED)
                 // lang: 'de',             // language (OPTIONAL)
     }).elfinder('instance');
     /*----------- END elfinder CODE -------------------------*/
